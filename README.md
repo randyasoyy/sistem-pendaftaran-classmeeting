@@ -1,1 +1,1 @@
-Form pendaftaran untuk classmeeting
+Form pendaftaran classmeeting
